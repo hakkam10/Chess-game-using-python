@@ -1,0 +1,3 @@
+5
+Kc5, Rd4, Rc1
+Kb3, Re3, Kr7 
